@@ -1,16 +1,6 @@
-package spaceBattle;
-
 import java.util.Stack;
 
 public class Solution {
-  public static void main(String[] args) {
-    // int[] nums = {1, 5, 3, -6};
-    // int[] nums = {1, 5, 3, -6, 7};
-    int[] nums = {-1, 10, 3, -6, 7};
-
-    Solution sol = new Solution();
-    System.out.println(Arrays.toString(sol.solve(nums)));
-  }
 
   /*
   By the problem design on binarysearch.com, we have to work
